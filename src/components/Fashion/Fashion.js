@@ -14,6 +14,7 @@ function Fashion() {
                 backgroundImage: `url(${main})`,
                 backgroundRepeat: 'no-repeat',
                 backgroundColor: 'black',
+                backgroundAttachment:'fixed',
                 backgroundPosition: 'center',
                 WebkitBackgroundSize: 'cover',
                 width: '100%',

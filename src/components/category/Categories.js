@@ -35,37 +35,6 @@ function Categories() {
                         )
                     })
                 }
-                {/* 
-                <Box sx={{
-                    height: 600,
-                    width: '100%',
-                    cursor: 'pointer'
-                }}>
-                    <Typography variant='h4' sx={{
-                        margin: '25% 50px 25%  50px',
-                        background: 'white',
-                        opacity: '0.8'
-                    }}>
-                        Mens
-                    </Typography>
-
-                </Box>
-
-
-                <Box sx={{
-                    height: 600,
-                    width: '100%',
-                    cursor: 'pointer'
-                }}>
-                    <Typography  variant='h4' sx={{
-                        margin: '25% 50px 25%  50px',
-                        background: 'white',
-                        opacity: '0.8'
-                    }}>
-                        Womans
-                    </Typography>
-
-                </Box> */}
             </Stack>
         </Box>
     )
